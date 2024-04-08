@@ -1,0 +1,33 @@
+{
+    "22c49e81-ac7b-666b-8221-2367254f9d73": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "b1ca9047-d8ad-9e1e-3d43-633d2f60fc9b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/2D Platformer.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "cab1635b-5bf5-4e28-d9d0-c7f934833d1a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnails/Candyland_Thumb.tex.nasset"
+    },
+    "d71ad885-29c5-416b-bf33-c0a7d5837e62": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Candyland",
+        "thumbnail": "cab1635b-5bf5-4e28-d9d0-c7f934833d1a",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "e049e56a-fa02-f564-169b-f4c3da1f7363": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Candyland.scene.nasset"
+    },
+    "guid": "22c49e81-ac7b-666b-8221-2367254f9d73"
+}
