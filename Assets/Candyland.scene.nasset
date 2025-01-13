@@ -1,5 +1,5 @@
 {
-    "guid": "",
+    "guid": "bff9a0df-ec48-4b67-a757-0a0f234e3660",
     "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 4096.0
@@ -128,8 +128,8 @@
             },
             "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
                 "radius": 40.0,
-                "irradiance": "",
-                "prefiltered": ""
+                "irradiance": "01945e20-61e0-74a9-2cf8-033de61a54b8",
+                "prefiltered": "01945e20-6223-7684-c440-99f7e3db9b17"
             },
             "data_components": [
                 {
@@ -154,7 +154,7 @@
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": ""
+                "asset": "9c67061f-0b57-4197-9913-d61d09d57d28"
             },
             "data_components": [
                 {
@@ -183,7 +183,7 @@
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                 "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
-                "material_instance": ""
+                "material_instance": "950f53b3-25d5-48f7-896f-7da0343dfbf3"
             },
             "data_components": [
                 {
